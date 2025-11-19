@@ -80,7 +80,7 @@ void latihan1() {
 ### Output Unguided 1 :
 
 ##### Output 
-![Screenshot Output Unguided 1](Ouput-Unguided1-Modul 7.png)
+![Screenshot Output Unguided 1](Ouput-Unguided1-Modul7.png)
 
 Pada bagian ini program membuat sebuah stack kosong, lalu memasukkan empat angka (3, 4, 2, 9) menggunakan operasi push. Setelah itu isi stack ditampilkan dari top ke bottom. Kemudian program memanggil fungsi balikStack(), yang membalik urutan isi stack dengan bantuan stack sementara. Hasil akhirnya adalah tampilan stack dengan urutan yang sudah terbalik. Bagian ini menunjukkan cara dasar kerja push, print, dan proses pembalikan stack.
 
@@ -108,7 +108,7 @@ void latihan2() {
 ### Output Unguided 2 :
 
 ##### Output 
-![Screenshot Output Unguided 2](Ouput-Unguided2-Modul 7.png)
+![Screenshot Output Unguided 2](Ouput-Unguided2-Modul7.png)
 
 Di nomor ini, angka dimasukkan ke stack tetapi dengan aturan ascending. Artinya, setiap kali ada angka baru masuk, program akan menyisipkannya pada posisi yang membuat isi stack tetap urut dari kecil ke besar. Proses ini memakai stack sementara untuk menahan elemen yang lebih besar sampai posisi yang tepat ditemukan. Setelah semua angka dimasukkan, isi stack ditampilkan, lalu dibalik menggunakan balikStack() seperti sebelumnya. Bagian ini menunjukkan bagaimana stack bisa dipakai untuk menyortir data secara bertahap.
 
@@ -132,7 +132,7 @@ void latihan3() {
 ### Output Unguided 3 :
 
 ##### Output 
-![Screenshot Output Unguided 3](Ouput-Unguided3-Modul 7.png)
+![Screenshot Output Unguided 3](Ouput-Unguided3-Modul7.png)
 
 Pada nomor ini program membaca input karakter dari user, lalu hanya mengambil angka yang muncul (karakter lain diabaikan). Setiap angka yang terbaca langsung dimasukkan ke stack. Setelah input selesai, isi stack ditampilkan dari top ke bottom. Kemudian stack dibalik menggunakan balikStack() dan ditampilkan kembali. Bagian ini memperlihatkan bagaimana stack bisa digunakan untuk menyimpan data dari input stream dan bagaimana urutan datanya berubah setelah dibalik.
 
